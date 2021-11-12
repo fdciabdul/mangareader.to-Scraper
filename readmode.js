@@ -5,7 +5,6 @@ const browserconfig = {
     //defaultViewport: null,
     // devtools: true,
   headless: false,
-  executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
   args: ["--mute-audio"],
   userDataDir: "abdul"
 };
