@@ -8,11 +8,20 @@ First you need to run `readmode.js`
 node readmode.js
 
 ```
-then
+
+choose whatever readmode what you want
+
+
+then run
 
 ```bash
 
 node index.js
 
 ```
+
+don't forget to import the mysql database into phpmyadmin 
+you can use xampp / laragon for that 
+
+and change the mysql info in db.js
 
