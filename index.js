@@ -168,7 +168,7 @@ async function startApp() {
         views.replace(/^\s+|\s+$|\s+(?=\s)/g, ""),
         status.replace(/^\s+|\s+$|\s+(?=\s)/g, ""),
         "./manga/" + valuetitle.replace(/(\W+)/gi, "-")
-      );
+      ));
 
       console.log(clc.green(" Scraping Chapter ..."))
       for (var i = 0;  i< chapterlink.length; i++) {
