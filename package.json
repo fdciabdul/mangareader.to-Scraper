@@ -9,7 +9,7 @@
     "mkdirp": "^1.0.4",
     "mysql2": "^2.3.2",
     "network-speed": "^2.1.1",
-    "puppeteer": "^12.0.0",
+    "puppeteer": "^15.0.0",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-adblocker": "^2.12.0",
     "puppeteer-extra-plugin-stealth": "^2.9.0",
