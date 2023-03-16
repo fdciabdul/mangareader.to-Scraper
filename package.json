@@ -7,7 +7,7 @@
     "cli-color": "^2.0.1",
     "cli-progress": "^3.9.1",
     "mkdirp": "^1.0.4",
-    "mysql2": "^2.3.2",
+    "mysql2": "^3.0.0",
     "network-speed": "^2.1.1",
     "puppeteer": "^12.0.0",
     "puppeteer-extra": "^3.2.3",
